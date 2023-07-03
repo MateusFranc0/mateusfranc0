@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFranc0&layout=compact&hide_border=true&title_color=A3A214&text_color=A3A214&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MateusFranc0&bg_color=0d1117&color=A3A214&line=A33534&point=A3A214&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center"> 
 <a href = "mailto:franco.contato@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=A3A214" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateusfranc0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
