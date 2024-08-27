@@ -1,22 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=header"/>
+<h1 align="center">Olá 👋, Eu sou Mateus Franco Gonçalves</h1>
+<h3 align="center">Um entusiasta da área de dados e tecnologia, estou sempre em busca de novos desafios e aprendizados.</h3 >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2471A3&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+MATEUS+FRANCO+GONÇALVES;TENHO+22+ANOS;E+SOU+ENTUSIASTA+DA++ÁREA+DE+DADOS+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfranc0&label=Profile%20views&color=0e75b6&style=flat" alt="mateusfranc0" /> </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MateusFranc0&show_icons=true&count_private=true&hide_border=true&title_color=2471A3&icon_color=00bfbf&text_color=A3A214&bg_color=0d1117" alt="Mateus Franco Gonçalves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFranc0&layout=compact&hide_border=true&title_color=A3A214&text_color=A3A214&bg_color=0d1117" />
-</div>
+<p alinhar="esquerda"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/? username=mateusfranc0" alt="mateusfranc0" /></a> </p>
 
-<div align="center"> 
-<a href = "mailto:franco.contato@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=A3A214" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateusfranc0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+- 🌱 Atualmente estou aprendendo **Python, SQL, Power Bi, Excel e Cloud**
 
+- 📫 Como chegar até mim? **franco.contato@gmail.com**
 
-### Estudando no momento:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117&textColor=0D1117)&nbsp;
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F618D&height=120&section=footer"/>
+<h3 align="left">Idiomas e ferramentas :</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https: //www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql- "logotipo-do-servidor.svg" alt="mssql" largura="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </a> < /p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfranc0&show_icons=true&locale=en&layout=compact" alt="mateusfranc0 " /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusfranc0&show_icons=true&locale=en" alt="mateusfranc0" /></p>
+
+<p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=mateusfranc0&" alt="mateusfranc0" /></p>
