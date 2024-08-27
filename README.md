@@ -1,23 +1,44 @@
-<h1 align="center">Olá 👋, Eu sou Mateus Franco Gonçalves</h1>
-<h3 align="center">Um entusiasta da área de dados e tecnologia, estou sempre em busca de novos desafios e aprendizados.</h3 >
+<div>
+  
+  <h1 align="center">
+    Olá, Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/mateusfranc0/">Mateus Franco 😃️</a>
+  </h1>
+  
+  <p align="center">
+    Um entusiasta da área de dados e tecnologia, estou sempre em busca de novos desafios e aprendizados!
+  </p>
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfranc0&label=Profile%20views&color=0e75b6&style=flat" alt="mateusfranc0" /> </p>
+<div align="center">
+  <a href="https://github.com/mateusfranc0">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateusfranc0&count_private=true&include_all_commits=true&show_icons=true&theme=vue&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfranc0&theme=vue&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-<p alinhar="esquerda"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/? username=mateusfranc0" alt="mateusfranc0" /></a> </p>
+<div align="center" valign="top"><br>
+  <img align="center" alt="Excel" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="ChatGPT" height="30" width="40" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img align="center" alt="PowerBi" height="30" width="40" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  </div><br>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Power Bi, Excel e Cloud**
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateusfranc0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:franco.contato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
 
-- 📫 Como chegar até mim? **franco.contato@gmail.com**
+<div align="center">
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-<h3 align="left">Idiomas e ferramentas :</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https: //www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql- "logotipo-do-servidor.svg" alt="mssql" largura="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" largura="40" altura="40"/> </a> < /p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusfranc0&show_icons=true&locale=en&layout=compact" alt="mateusfranc0 " /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusfranc0&show_icons=true&locale=en" alt="mateusfranc0" /></p>
-
-<p><img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=mateusfranc0&" alt="mateusfranc0" /></p>
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
